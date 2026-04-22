@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arnav 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Knowledge+%7C+Creativity+%7C+Intelligence;AI+%7C+Mathematics+%7C+Systems;Building+Meaningful+Technology;Exploring+Deep+Tech&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Knowledge+%7C+Creativity+%7C+Intelligence+%7C+Research;AI+%7C+Mathematics+%7C+Systems;Building+Meaningful+Technology;Exploring+Deep+Tech&center=true&width=550&height=45">
 </p>
 
 ---
