@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- I build at the intersection of **AI, mathematics, and intelligent systems**
+- I build at the intersection of **AI, mathematics, knowledge and intelligent systems**
 - Focused on **deep tech, simulations, and scientific computing**
 - Interested in solving **complex real-world and theoretical problems**
 - Exploring **AI reasoning, physics-inspired models, and system design**
