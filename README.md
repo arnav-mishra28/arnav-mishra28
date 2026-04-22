@@ -13,7 +13,7 @@
 - Interested in solving **complex real-world and theoretical problems**
 - Exploring **AI reasoning, physics-inspired models, and system design**
 
----
+--- 
 
 <div align="center">
 
