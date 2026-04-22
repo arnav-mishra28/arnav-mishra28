@@ -1,3 +1,60 @@
+<h1 align="center">Hi, I'm Arnav 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+Math+%7C+Systems;Building+Intelligent+Systems;Exploring+Deep+Tech&center=true&width=500&height=45">
+</p>
+
+---
+
+### 🧠 About Me
+
+- I build systems at the intersection of **AI, mathematics, and engineering**
+- Currently working on **ML models, simulations, and intelligent systems**
+- Interested in **deep tech, scientific computing, and real-world impact**
+- Exploring problems like **AI reasoning, physics simulation, and complex systems**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,django,spring,docker,kubernetes,aws,linux,postgres,mongodb&perline=7" />
+</p>
+
+---
+
+### ⚡ Tools & Engines
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,postman,unity&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ## 🛠️ Skills
 
 ### 💻 Languages
